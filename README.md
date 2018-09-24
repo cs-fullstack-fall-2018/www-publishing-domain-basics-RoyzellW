@@ -7,4 +7,4 @@ Read the following article on publishing to web sites and servers.
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website
 
 
-
+It was shocking that you could honestly publish your website using github. 
